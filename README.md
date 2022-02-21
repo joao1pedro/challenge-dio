@@ -1,2 +1,2 @@
 # challenge-dio
-Reposit
+Repositório criado para resolver o primeiro desafio da DIO.
